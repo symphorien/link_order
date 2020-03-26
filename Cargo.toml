@@ -1,0 +1,10 @@
+[package]
+name = "link_order"
+version = "0.1.0"
+authors = ["Symphorien Gibol <symphorien+git@xlumurb.eu>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+cc = "1.0"
